@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Hersh Godse"
-resume_title:                   "Electrical Engineering and Computer Science Student at UC Berkeley"
+resume_title:                   "EE and CS Student at UC Berkeley"
 resume_contact_email:
   "hersh.godse@berkeley.edu"
 
@@ -25,11 +25,11 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+# resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+# resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
