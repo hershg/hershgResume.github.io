@@ -1,3 +1,16 @@
+# Gems
+gems:
+  - jekyll-seo-tag
+
+url: hershg.github.io
+author: Hersh Godse
+
+social:
+  name: Hersh Godse
+  links:
+    - https://www.linkedin.com/in/hershgodse
+    - https://github.com/hershg
+
 # Site settings
 title: "Hersh Godse"
 description: "Hersh Godse Portfolio"
